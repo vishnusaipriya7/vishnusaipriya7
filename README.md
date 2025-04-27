@@ -1,4 +1,4 @@
-## Hi there I'm Vishnu Priya...!!👋
+## Hi there ...!!👋
 
 <!--
 **vishnusaipriya7/vishnusaipriya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
